@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 Email:sorenramesh868@gmail.com
+- 📫 Email: sorenramesh868@gmail.com
 
 <!---
 rameshgitter/rameshgitter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

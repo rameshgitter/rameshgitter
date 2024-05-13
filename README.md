@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ramesh
+- RESUME: https://docs.google.com/document/d/19ZPx5XJlGo3dt8l-ujW7enVTTTx5QSQ6S4X2fcy6n6Y/edit?usp=sharing 
 - 👀 I’m interested in building a fintech startup
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on cancer.ai

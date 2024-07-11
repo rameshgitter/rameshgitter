@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on [cancer.ai](https://github.com/rameshgitter/cancer.ai)
 - 📫 Email: sorenramesh868@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,django,opencv,octave,js,html,css,tailwind,npm,nodejs,postman,mongodb,mysql,react,vite,vercel,nginx,nextjs,docker,kubernetes,solidity,linux,mint,vscode,vim,neovim)](https://skillicons.dev)
+
 <!---
 rameshgitter/rameshgitter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

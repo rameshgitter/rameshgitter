@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=rameshgitter)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=pixelpilgrims)
 - 👋 Hi, I’m @ramesh
 - RESUME: https://docs.google.com/document/d/19ZPx5XJlGo3dt8l-ujW7enVTTTx5QSQ6S4X2fcy6n6Y/edit
 - 👀 I’m interested in building a fintech startup

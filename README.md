@@ -20,4 +20,3 @@ You can click the Preview link to take a look at your changes.
 [![rameshgitter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rameshgitter)](https://github.com/rameshgitter/github-readme-activity-graph)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sorenramesh868?theme=forest)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Manav086)

@@ -2,6 +2,7 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=pixelpilgrims)
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=manav086)
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=funny_map_53)
+------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @ramesh
 - RESUME: https://docs.google.com/document/d/19ZPx5XJlGo3dt8l-ujW7enVTTTx5QSQ6S4X2fcy6n6Y/edit
 - 👀 I’m interested in building a fintech startup
@@ -17,8 +18,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![rameshgitter's Stats](https://github-readme-stats.vercel.app/api?username=rameshgitter&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![rameshgitter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameshgitter&theme=vue-dark&hide_border=true)
-![rameshgitter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshgitter&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-[![rameshgitter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rameshgitter)](https://github.com/rameshgitter/github-readme-activity-graph)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sorenramesh868?theme=forest)
+![rameshgitter's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameshgitter&theme=vue-dark&hide_border=true)
+
+![rameshgitter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshgitter&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+[![rameshgitter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rameshgitter)](https://github.com/rameshgitter/github-readme-activity-graph)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![LeetCode Stats](https://leetcard.jacoblin.cool/sorenramesh868?theme=forest&font=Zen%20Maru%20Gothic&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/funny_map_53?theme=forest&font=Zen%20Maru%20Gothic&ext=contest)

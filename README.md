@@ -11,7 +11,7 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=funny_map_53)
 ------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @ramesh
-- RESUME: https://drive.google.com/file/d/1WiGO7FN2q_2KtY570A_6Rb_rN21EBKcZ/view?usp=sharing
+- RESUME: https://docs.google.com/document/d/16-7yAco1mRsejTLRWagZ1FHLd2Rs2zNviXe9CwEM2P4/edit?usp=sharing
 - 👀 I’m interested in building a fintech startup
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on [cancer.ai](https://github.com/rameshgitter/cancer.ai)

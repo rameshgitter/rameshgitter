@@ -14,7 +14,7 @@
 - RESUME: https://docs.google.com/document/d/16-7yAco1mRsejTLRWagZ1FHLd2Rs2zNviXe9CwEM2P4/edit?usp=sharing
 - 👀 I’m interested in building a fintech startup
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on [cancer.ai](https://github.com/rameshgitter/cancer.ai)
+- 💞️ I’m looking to collaborate on [QuantX-Engine](https://github.com/rameshgitter/QuantX-Engine)
 - 📫 Email: sorenramesh868@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,django,opencv,octave,js,html,css,tailwind,npm,nodejs,postman,mongodb,mysql,react,vite,vercel,nginx,nextjs,docker,kubernetes,solidity,linux,mint,vscode,vim,neovim)](https://skillicons.dev)

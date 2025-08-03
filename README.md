@@ -10,7 +10,7 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=manav086)
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=funny_map_53)
 ------------------------------------------------------------------------------------------------------------
-- 👋 Hi, I’m @ramesh
+- 👋 Hi, I’m [@ramesh](https://rameshgitter.github.io/My-Portfolio/)
 - RESUME: https://docs.google.com/document/d/16-7yAco1mRsejTLRWagZ1FHLd2Rs2zNviXe9CwEM2P4/edit?usp=sharing
 - 👀 I’m interested in building a fintech startup
 - 🌱 I’m currently learning MERN stack & Machine Learning

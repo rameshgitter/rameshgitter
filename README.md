@@ -200,7 +200,8 @@
 <div align="center">
   
   ### 📊 Practice & Problem Solving
-  [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=sorenramesh868&theme=dark)](https://leetcode.com/sorenramesh868/)
+  ![Ramesh's LeetCode Stats (Practice)](https://leetcode-badge-sage.vercel.app/badge/sorenramesh868?theme=neutral)
+
   
   ### 🏅 Contest & Competition
   ![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/funny_map_53?theme=dark&bgColor=0d1117)

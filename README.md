@@ -1,10 +1,3 @@
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
-
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-  </div>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=rameshgitter&style=for-the-badge&color=4AE2FF)
   
@@ -46,17 +39,7 @@
 💡 **Current Mission**: Revolutionizing Finance through technology
 
 </td>
-<td width="50%" valign="top">
 
-### 🚀 What I'm Up To
-
-<br>
-
-> *"Turning ambitious dreams into elegant code"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-
-</td>
 </tr>
 </table>
 

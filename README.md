@@ -133,29 +133,24 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rameshgitter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4AE2FF&icon_color=4AE2FF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshgitter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AE2FF&text_color=c9d1d9"/>
-  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameshgitter&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rameshgitter&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rameshgitter&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rameshgitter&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rameshgitter&theme=tokyonight" />
+
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameshgitter&theme=tokyonight&hide_border=true&background=0d1117&stroke=4AE2FF&ring=4AE2FF&fire=FF6B6B&currStreakLabel=4AE2FF)
-  
-</div>
+
+
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rameshgitter&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4AE2FF&line=FF6B6B&point=4AE2FF&area=true&area_color=4AE2FF)
-  
-</div>
-
----
 
 ## 🏆 Competitive Programming
 
